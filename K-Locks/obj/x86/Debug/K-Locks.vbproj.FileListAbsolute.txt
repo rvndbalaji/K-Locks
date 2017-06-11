@@ -1,0 +1,14 @@
+D:\NewVB2010\K-Locks\K-Locks\bin\Debug\K-Locks.exe.manifest
+D:\NewVB2010\K-Locks\K-Locks\bin\Debug\K-Locks.application
+D:\NewVB2010\K-Locks\K-Locks\bin\Debug\K-Locks.exe
+D:\NewVB2010\K-Locks\K-Locks\bin\Debug\K-Locks.pdb
+D:\NewVB2010\K-Locks\K-Locks\bin\Debug\K-Locks.xml
+D:\NewVB2010\K-Locks\K-Locks\obj\x86\Debug\K_Locks.Strt.resources
+D:\NewVB2010\K-Locks\K-Locks\obj\x86\Debug\K_Locks.Resources.resources
+D:\NewVB2010\K-Locks\K-Locks\obj\x86\Debug\K-Locks.vbproj.GenerateResource.Cache
+D:\NewVB2010\K-Locks\K-Locks\obj\x86\Debug\K-Locks.TrustInfo.xml
+D:\NewVB2010\K-Locks\K-Locks\obj\x86\Debug\K-Locks.exe.manifest
+D:\NewVB2010\K-Locks\K-Locks\obj\x86\Debug\K-Locks.application
+D:\NewVB2010\K-Locks\K-Locks\obj\x86\Debug\K-Locks.exe
+D:\NewVB2010\K-Locks\K-Locks\obj\x86\Debug\K-Locks.xml
+D:\NewVB2010\K-Locks\K-Locks\obj\x86\Debug\K-Locks.pdb
